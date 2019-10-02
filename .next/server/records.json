@@ -7,7 +7,8 @@
       "multi private-next-pages/post.js": 3,
       "multi next/dist/pages/_app": 4,
       "multi next/dist/pages/_error": 5,
-      "multi next/dist/pages/_document": 6
+      "multi next/dist/pages/_document": 6,
+      "multi private-next-pages/show/[id].js": 7
     },
     "usedIds": {
       "0": 0,
@@ -16,7 +17,8 @@
       "3": 3,
       "4": 4,
       "5": 5,
-      "6": 6
+      "6": 6,
+      "7": 7
     }
   },
   "chunks": {
@@ -27,17 +29,41 @@
       "static/IDfM2oGgIdrb_jNwVQu01/pages/about.js": 3,
       "static/IDfM2oGgIdrb_jNwVQu01/pages/index.js": 4,
       "static/IDfM2oGgIdrb_jNwVQu01/pages/p/[id].js": 5,
-      "static/IDfM2oGgIdrb_jNwVQu01/pages/post.js": 6
+      "static/IDfM2oGgIdrb_jNwVQu01/pages/post.js": 6,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/_app.js": 7,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/_document.js": 8,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/_error.js": 9,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/about.js": 10,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/index.js": 11,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/p/[id].js": 12,
+      "static/QeBMWmSrqiu9-V_lZXAWp/pages/post.js": 13,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/_app.js": 0,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/_document.js": 1,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/_error.js": 2,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/about.js": 3,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/index.js": 4,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/p/[id].js": 5,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/post.js": 6,
+      "static/9sa7JGMuCpVSgBauQeZCm/pages/show/[id].js": 14,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/_app.js": 7,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/_document.js": 8,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/_error.js": 9,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/about.js": 10,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/index.js": 11,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/p/[id].js": 12,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/post.js": 13,
+      "static/ce3LppMp--RZiIbXtiQn2/pages/show/[id].js": 15
     },
     "bySource": {},
     "usedIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
+      10,
+      11,
+      12,
+      13,
+      15,
+      7,
+      8,
+      9
     ]
   }
 }

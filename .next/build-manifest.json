@@ -35,6 +35,11 @@
       "static/runtime/webpack-035ac2b14bde147cb4a8.js",
       "static/chunks/commons.d9efa3f95d6b8d24b1d8.js",
       "static/runtime/main-86b0feb5e2c081a765e8.js"
+    ],
+    "/show/[id]": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.d9efa3f95d6b8d24b1d8.js",
+      "static/runtime/main-86b0feb5e2c081a765e8.js"
     ]
   }
 }
